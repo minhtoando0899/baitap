@@ -9,8 +9,9 @@
 class Long_words:
     def __init__(self, n, string):
         self.n = n
-        self.string = string
+        self.string = string.split(" ")
         self.words_len = []
+
     def Lwords(self):
         for x in self.string:
             if len(x) > self.n:

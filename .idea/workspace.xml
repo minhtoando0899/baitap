@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bai8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi5/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi5/Bai7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi5/Bai8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhepCong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi5/PhepCong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhepNhan.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi5/PhepNhan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tong2List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi5/Tong2List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/set.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +43,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.Bai8">
-    <configuration name="Bai7 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\baitap\Buoi5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Bai8 (1)">
+    <configuration name="Bai7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bai7.py" />
+      <option name="SCRIPT_NAME" value="E:\baitap\Buoi5\Bai7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +82,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\baitap\Bai7.py" />
+      <option name="SCRIPT_NAME" value="E:\baitap\Buoi5\Bai7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bai8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Buoi5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Buoi5/Bai8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bai8.py" />
+      <option name="SCRIPT_NAME" value="E:\baitap\Buoi5\Bai8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,34 +154,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buoi5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lession1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Bai8 (1)" />
         <item itemvalue="Python.Bai8" />
         <item itemvalue="Python.Bai7 (1)" />
         <item itemvalue="Python.Bai7" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.buoi5" />
       </list>
     </recent_temporary>
   </component>
@@ -180,22 +193,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="424" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585755858674" />
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1585769402786">
+    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1585771050751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585769402786" />
-    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1585769402785">
+    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585771050751" />
+    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1585771050751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585769402785" />
-    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1585769402785">
+    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585771050751" />
+    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1585771050751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585769402785" />
-    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1585769402785">
+    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585771050751" />
+    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1585771050751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585769402785" />
+    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585771050751" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1585767826965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
