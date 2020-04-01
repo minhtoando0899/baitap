@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PhepCong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhepNhan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong2List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XoaPhanTuTrung.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buoi5.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +162,9 @@
       <updated>1585576012140</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1585757201426">
