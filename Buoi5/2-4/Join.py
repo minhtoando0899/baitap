@@ -2,7 +2,7 @@
 class Str:
     def __init__(self, list):
         self.list = list
-        self.str_1 = str
+        self.str_1 = str()
 
     def join(self):
         self.str_1 = ''.join(self.list)
