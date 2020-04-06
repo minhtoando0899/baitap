@@ -8,12 +8,12 @@
 
 
 class Depth:
-    def __init__(self, dict):
-        self.dict = dict
+    def __init__(self, d):
+        self.d = d
 
     def dep(self):
-        if isinstance(self, dict):
-            return 1 + (max(map(dep,self.values())) if self else 0)
+        if isinstance(self.d, dict):
+            return 1 + (max(map(Depth.dep, self.d.values())) if self.d else 0)
         return 0
 
 

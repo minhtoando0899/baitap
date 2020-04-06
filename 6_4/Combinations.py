@@ -26,9 +26,8 @@ class Combinations:
             return
         for i in range(len(self.list)):
             c_num = self.list[i:i + 1]
-            for a_num in Combinations(self.n - 1, self.list[i + 1:]):
+            for a_num in Combinations(self.n - 1, self.list[i + 1:]).com():
                 yield c_num + a_num
-                return
 
 
 C1 = Combinations(2, [1, 2, 3, 4, 5, 6, 7, 8, 9])
@@ -37,4 +36,6 @@ print("Original list:")
 print(C1.list)
 n = 2
 print("Combinations of", n, "distinct objects:")
-print(C1.com())
+Result = C1.com()
+for x in Result:
+    print(x)
