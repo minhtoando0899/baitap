@@ -2,19 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/buoi_7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/check_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/map_two_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/max_min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/remove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi_7/unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/combine_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/count_associated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/get_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/remove_spaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/sort_alphabetically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/9_4/table_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeSignal/7_4/chep_code_dict/Multifly.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal/7_4/chep_code_dict/Multifly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/bool.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/bool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/check_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/check_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/combine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/del.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/map_two_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/map_two_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/max_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/max_min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/remove.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi_7/unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/8_4/unique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +59,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\baitap\dictionary" />
+      <recent name="E:\baitap\dictionary\9_4" />
       <recent name="E:\baitap\buoi_7" />
       <recent name="E:\baitap\CodeSignal\7_4\code_signal" />
       <recent name="E:\baitap\Bai_tap_ve _list" />
-      <recent name="E:\baitap" />
-      <recent name="E:\baitap\6_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.unique">
-    <configuration name="bool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.get_largest">
+    <configuration name="convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi_7/bool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/9_4/convert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="combine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_associated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi_7/combine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/9_4/count_associated.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi_7/remove.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/9_4/get_largest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="remove_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi_7/sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/9_4/remove_spaces.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sort_alphabetically" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/9_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi_7/unique.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/9_4/sort_alphabetically.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unique" />
-        <item itemvalue="Python.bool" />
-        <item itemvalue="Python.combine" />
-        <item itemvalue="Python.sort" />
-        <item itemvalue="Python.remove" />
+        <item itemvalue="Python.get_largest" />
+        <item itemvalue="Python.remove_spaces" />
+        <item itemvalue="Python.sort_alphabetically" />
+        <item itemvalue="Python.convert" />
+        <item itemvalue="Python.count_associated" />
       </list>
     </recent_temporary>
   </component>
@@ -208,38 +219,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585834380904" />
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1586372007655">
+    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1586447914546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586372007655" />
-    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1586372007651">
+    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586447914546" />
+    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1586447914546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586372007651" />
-    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1586372007651">
+    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586447914546" />
+    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1586447914546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586372007651" />
-    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1586372007651">
+    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586447914546" />
+    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1586447914546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586372007651" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586371761344">
+    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586447914546" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586447886470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586371761344" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586371761344">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586447886470" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586447886470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586371761344" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586371761344">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586447886470" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586447886470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586371761344" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586371761344">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586447886470" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586447886470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586371761344" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586447886470" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585834343894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -256,31 +267,5 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586284908146" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/buoi_7/unique.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/buoi_7/unique.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/buoi_7/unique.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/buoi_7/unique.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
