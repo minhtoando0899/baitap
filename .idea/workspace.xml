@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/Create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/CreateDictOfKeysXYZ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/ReplaceDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/SortCounterByValue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/StoreInJson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary/10_4/dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/DeQuy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/FinMaxArbitrary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/FindMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/Lamda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/SoLe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi7/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap_ve _list/6_4/Depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bai_tap_ve _list/6_4/Depth.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +50,8 @@
       <recent name="E:\baitap\Bai_tap_ve _list" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CreateDictOfKeysXYZ">
-    <configuration name="Create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DeQuy">
+    <configuration name="DeQuy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/10_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/10_4/Create.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi7/DeQuy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CreateDictOfKeysXYZ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/10_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bai_tap_ve _list/5_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/10_4/CreateDictOfKeysXYZ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bai_tap_ve _list/5_4/Find.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FindSumHighest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/10_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bai_tap_ve _list/5_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/10_4/Match.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bai_tap_ve _list/5_4/FindSumHighest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lamda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/10_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/10_4/ReplaceDictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi7/Lamda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StoreInJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SoLe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary/10_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buoi7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/10_4/StoreInJson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buoi7/SoLe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CreateDictOfKeysXYZ" />
-        <item itemvalue="Python.StoreInJson" />
-        <item itemvalue="Python.Match" />
-        <item itemvalue="Python.ReplaceDictionary" />
-        <item itemvalue="Python.Create" />
+        <item itemvalue="Python.DeQuy" />
+        <item itemvalue="Python.Lamda" />
+        <item itemvalue="Python.SoLe" />
+        <item itemvalue="Python.FindSumHighest" />
+        <item itemvalue="Python.Find" />
       </list>
     </recent_temporary>
   </component>
@@ -205,38 +203,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585834380904" />
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom" timestamp="1586536613045">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1586637916892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586536613045" />
-    <state width="1515" height="235" key="GridCell.Tab.0.center" timestamp="1586536613045">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586637916892" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1586637916892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586536613045" />
-    <state width="1515" height="235" key="GridCell.Tab.0.left" timestamp="1586536613045">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586637916892" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1586637916892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586536613045" />
-    <state width="1515" height="235" key="GridCell.Tab.0.right" timestamp="1586536613045">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586637916892" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1586637916892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586536613045" />
-    <state width="1515" height="210" key="GridCell.Tab.1.bottom" timestamp="1586535512171">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586637916892" />
+    <state width="1515" height="210" key="GridCell.Tab.1.bottom" timestamp="1586637917835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586535512171" />
-    <state width="1515" height="210" key="GridCell.Tab.1.center" timestamp="1586535512171">
+    <state width="1515" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586637917835" />
+    <state width="1515" height="210" key="GridCell.Tab.1.center" timestamp="1586637917835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586535512171" />
-    <state width="1515" height="210" key="GridCell.Tab.1.left" timestamp="1586535512171">
+    <state width="1515" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586637917835" />
+    <state width="1515" height="210" key="GridCell.Tab.1.left" timestamp="1586637917835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586535512171" />
-    <state width="1515" height="210" key="GridCell.Tab.1.right" timestamp="1586535512171">
+    <state width="1515" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586637917835" />
+    <state width="1515" height="210" key="GridCell.Tab.1.right" timestamp="1586637917835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586535512171" />
+    <state width="1515" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586637917835" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585834343894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -13,7 +13,7 @@ class Depth:
 
     def dep(self):
         if isinstance(self.d, dict):
-            return 1 + (max(map(Depth.dep, self.d.values())) if self.d else 0)
+            return 1 + (max(map(Depth.dep(self), self.d.values())) if self.d else 0)
         return 0
 
 
