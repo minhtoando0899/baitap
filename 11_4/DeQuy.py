@@ -1,14 +1,9 @@
-def change2(i):
-    if i == 1:
-        return 1
-    s = ''
-    while i >= 1:
-        if i % 2 == 1:
-            s = "1" + s
-        else:
-            s = "0" + s
-        i //= 2
-    return s
+def change2(n):
+    if n == 0:
+        return 0
+    else:
+        s = (change2(n // 2)) % 2
+        return s
 
 
-print(change2(71))
+print(change2(6))
