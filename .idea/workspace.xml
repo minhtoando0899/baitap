@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lambda/CreateFibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/create_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/multiplied.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/sort_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/sort_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/square_and_cube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/13_4/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_4/DeQuy.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_4/DeQuy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="baitap" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,7 +36,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -207,46 +200,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586706230772" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585834380904">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586856992135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585834380904" />
-    <state width="857" height="232" key="GridCell.Tab.0.bottom" timestamp="1586721328704">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586856992135" />
+    <state width="857" height="210" key="GridCell.Tab.0.bottom" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721328704" />
-    <state width="857" height="232" key="GridCell.Tab.0.center" timestamp="1586721328704">
+    <state width="857" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.0.center" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586721328704" />
-    <state width="857" height="232" key="GridCell.Tab.0.left" timestamp="1586721328704">
+    <state width="857" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.0.left" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586721328704" />
-    <state width="857" height="232" key="GridCell.Tab.0.right" timestamp="1586721328704">
+    <state width="857" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.0.right" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586721328704" />
-    <state width="857" height="210" key="GridCell.Tab.1.bottom" timestamp="1586721124374">
+    <state width="857" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.1.bottom" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721124374" />
-    <state width="857" height="210" key="GridCell.Tab.1.center" timestamp="1586721124373">
+    <state width="857" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.1.center" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586721124373" />
-    <state width="857" height="210" key="GridCell.Tab.1.left" timestamp="1586721124373">
+    <state width="857" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.1.left" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586721124373" />
-    <state width="857" height="210" key="GridCell.Tab.1.right" timestamp="1586721124374">
+    <state width="857" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="857" height="210" key="GridCell.Tab.1.right" timestamp="1586721418983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586721124374" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1585834343894">
+    <state width="857" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1586856997831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585834343894" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586856997831" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585939199415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -259,45 +252,5 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586284908146" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11_4/DeQuy.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
