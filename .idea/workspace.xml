@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lambda/13_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/convert_r_to_i.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/get_class_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/pow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/sum_to_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/upper_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +56,8 @@
       <recent name="E:\baitap\Bai_tap_ve _list" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CreateFibonacci">
-    <configuration name="CreateFibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda/CreateFibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/Rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda/check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda/filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/pow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="square_and_cube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda/square_and_cube.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="upper_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda/time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/upper_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CreateFibonacci" />
-        <item itemvalue="Python.check" />
-        <item itemvalue="Python.time" />
-        <item itemvalue="Python.square_and_cube" />
-        <item itemvalue="Python.filter" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.pow" />
+        <item itemvalue="Python.upper_case" />
+        <item itemvalue="Python.reverse" />
+        <item itemvalue="Python.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -204,38 +213,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586856992135" />
-    <state width="857" height="210" key="GridCell.Tab.0.bottom" timestamp="1586721418983">
+    <state width="1515" height="234" key="GridCell.Tab.0.bottom" timestamp="1587061375941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.0.center" timestamp="1586721418983">
+    <state width="1515" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587061375941" />
+    <state width="1515" height="234" key="GridCell.Tab.0.center" timestamp="1587061375941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.0.left" timestamp="1586721418983">
+    <state width="1515" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587061375941" />
+    <state width="1515" height="234" key="GridCell.Tab.0.left" timestamp="1587061375941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.0.right" timestamp="1586721418983">
+    <state width="1515" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587061375941" />
+    <state width="1515" height="234" key="GridCell.Tab.0.right" timestamp="1587061375941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.1.bottom" timestamp="1586721418983">
+    <state width="1515" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587061375941" />
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom" timestamp="1587061087252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.1.center" timestamp="1586721418983">
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587061087252" />
+    <state width="1515" height="212" key="GridCell.Tab.1.center" timestamp="1587061087252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.1.left" timestamp="1586721418983">
+    <state width="1515" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587061087252" />
+    <state width="1515" height="212" key="GridCell.Tab.1.left" timestamp="1587061087252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
-    <state width="857" height="210" key="GridCell.Tab.1.right" timestamp="1586721418983">
+    <state width="1515" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587061087252" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right" timestamp="1587061087252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="857" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586721418983" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587061087252" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1586856997831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
