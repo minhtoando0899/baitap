@@ -4,7 +4,7 @@ class String:
         self.str_1 = ""
 
     def get(self):
-        self.str_1 = input("Enter your str:toan")
+        self.str_1 = input("Enter your str: ")
 
     def pri(self):
         print(self.str_1.upper())
