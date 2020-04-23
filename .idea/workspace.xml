@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/control_structures/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/unit_2/bai8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_structures/unit_3/1.Ucln_Bcnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_structures/unit_3/2.SoChinhPhuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_structures/unit_3/3.Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_structures/unit_3/4.SoNguyenTo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control_structures/unit_3/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/upper_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/upper_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chepcode/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chepcode/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_structures/unit_2/bai8.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +42,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\baitap\control_structures\unit_3" />
       <recent name="E:\baitap\chepcode\matrix_vector" />
       <recent name="E:\baitap\dictionary" />
       <recent name="E:\baitap\dictionary\9_4" />
       <recent name="E:\baitap\buoi_7" />
-      <recent name="E:\baitap\CodeSignal\7_4\code_signal" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bai6">
-    <configuration name="FinMaxArbitrary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4.SoNguyenTo">
+    <configuration name="1.Ucln_Bcnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +63,116 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_4/FinMaxArbitrary.py" />
+      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\1.Ucln_Bcnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.Ucln_Bcnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\1.Ucln_Bcnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.SoChinhPhuong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\2.SoChinhPhuong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.Random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\3.Random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.SoNguyenTo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_3/4.SoNguyenTo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ucln_Bcnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lession1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\Ucln_Bcnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,74 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_2/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bai10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lession1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_2/bai10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bai6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lession1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_2/bai6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bai7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lession1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_2/bai7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_structures/unit_3/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bai6" />
-        <item itemvalue="Python.FinMaxArbitrary" />
+        <item itemvalue="Python.4.SoNguyenTo" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.bai10" />
-        <item itemvalue="Python.bai7" />
+        <item itemvalue="Python.3.Random" />
+        <item itemvalue="Python.1.Ucln_Bcnn" />
+        <item itemvalue="Python.Ucln_Bcnn" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +241,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1586027406263" />
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587653258618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1587653258618" />
     <state x="424" y="3" key="CommitChangelistDialog2" timestamp="1585913087650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -216,38 +257,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586856992135" />
-    <state width="1515" height="234" key="GridCell.Tab.0.bottom" timestamp="1587496255640">
+    <state width="1515" height="234" key="GridCell.Tab.0.bottom" timestamp="1587656247892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587496255640" />
-    <state width="1515" height="234" key="GridCell.Tab.0.center" timestamp="1587496255640">
+    <state width="1515" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587656247892" />
+    <state width="1515" height="234" key="GridCell.Tab.0.center" timestamp="1587656247892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587496255640" />
-    <state width="1515" height="234" key="GridCell.Tab.0.left" timestamp="1587496255640">
+    <state width="1515" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587656247892" />
+    <state width="1515" height="234" key="GridCell.Tab.0.left" timestamp="1587656247892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587496255640" />
-    <state width="1515" height="234" key="GridCell.Tab.0.right" timestamp="1587496255640">
+    <state width="1515" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587656247892" />
+    <state width="1515" height="234" key="GridCell.Tab.0.right" timestamp="1587656247892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587496255640" />
-    <state width="1515" height="212" key="GridCell.Tab.1.bottom" timestamp="1587495687496">
+    <state width="1515" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587656247892" />
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom" timestamp="1587618377337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587495687496" />
-    <state width="1515" height="212" key="GridCell.Tab.1.center" timestamp="1587495687496">
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587618377337" />
+    <state width="1515" height="212" key="GridCell.Tab.1.center" timestamp="1587618377337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587495687496" />
-    <state width="1515" height="212" key="GridCell.Tab.1.left" timestamp="1587495687496">
+    <state width="1515" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587618377337" />
+    <state width="1515" height="212" key="GridCell.Tab.1.left" timestamp="1587618377337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587495687496" />
-    <state width="1515" height="212" key="GridCell.Tab.1.right" timestamp="1587495687496">
+    <state width="1515" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587618377337" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right" timestamp="1587618377337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587495687496" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587618377337" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1586856997831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
