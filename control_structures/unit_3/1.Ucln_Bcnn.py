@@ -19,7 +19,7 @@ while True:
                 if self.b % y == 0:
                     self.list_b.append(y)
             list_ab = (set(self.list_a) & set(self.list_b))
-            print("USCLN và BCNN của 2 số trên lần lượt là: %s, %s" % (
+            print("USCLN là: %s\nBCNN là: %s" % (
                 max(list_ab), int((self.a * self.b) / max(list_ab))))
 
 
