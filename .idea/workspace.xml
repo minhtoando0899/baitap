@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f70f4b-a318-4ad0-8aee-c1c6b7a87e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/DuongCheo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/axis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/diag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/identity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/keepdims.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/mt_x_mt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/sum_max_min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_vector/tutorial/transpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/FrobeniousNorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/SumElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_vector/practice/volatility.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chepcode/matrix_vector/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_vector/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chepcode/matrix_vector/create.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_vector/tutorial/create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chepcode/matrix_vector/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_vector/tutorial/indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chepcode/matrix_vector/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_vector/tutorial/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_structures/unit_3/1.Ucln_Bcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/control_structures/unit_3/1.Ucln_Bcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_vector/practice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_vector/practice/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,29 +52,8 @@
       <recent name="E:\baitap\dictionary" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Sum">
-    <configuration name="1.Ucln_Bcnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lession1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control_structures/unit_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\baitap\control_structures\unit_3\1.Ucln_Bcnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DuongCheo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.create">
+    <configuration name="FrobeniousNorm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/practice/DuongCheo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/practice/FrobeniousNorm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="axis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SumElement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/tutorial/axis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/practice/SumElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="indexing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/tutorial/indexing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/practice/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keepdims" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lession1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_vector/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/tutorial/keepdims.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_vector/practice/create.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create" />
         <item itemvalue="Python.Sum" />
-        <item itemvalue="Python.DuongCheo" />
-        <item itemvalue="Python.keepdims" />
-        <item itemvalue="Python.axis" />
-        <item itemvalue="Python.indexing" />
+        <item itemvalue="Python.FrobeniousNorm" />
+        <item itemvalue="Python.SumElement" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -247,38 +213,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586856992135" />
-    <state width="1515" height="234" key="GridCell.Tab.0.bottom" timestamp="1587754975713">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587754975713" />
-    <state width="1515" height="234" key="GridCell.Tab.0.center" timestamp="1587754975713">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587754975713" />
-    <state width="1515" height="234" key="GridCell.Tab.0.left" timestamp="1587754975713">
+    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587754975713" />
-    <state width="1515" height="234" key="GridCell.Tab.0.right" timestamp="1587754975713">
+    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587754975713" />
-    <state width="1515" height="212" key="GridCell.Tab.1.bottom" timestamp="1587754223692">
+    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587754223692" />
-    <state width="1515" height="212" key="GridCell.Tab.1.center" timestamp="1587754223692">
+    <state width="1515" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.1.center" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587754223692" />
-    <state width="1515" height="212" key="GridCell.Tab.1.left" timestamp="1587754223692">
+    <state width="1515" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.1.left" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587754223692" />
-    <state width="1515" height="212" key="GridCell.Tab.1.right" timestamp="1587754223692">
+    <state width="1515" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right" timestamp="1587838160367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587754223692" />
+    <state width="1515" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587838160367" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1586856997831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
